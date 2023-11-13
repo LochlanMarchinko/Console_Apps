@@ -1,0 +1,14 @@
+C:\Users\2013.102104\Desktop\c#_lessons\3numbers\3numbers\bin\Debug\net6.0\3numbers.exe
+C:\Users\2013.102104\Desktop\c#_lessons\3numbers\3numbers\bin\Debug\net6.0\3numbers.deps.json
+C:\Users\2013.102104\Desktop\c#_lessons\3numbers\3numbers\bin\Debug\net6.0\3numbers.runtimeconfig.json
+C:\Users\2013.102104\Desktop\c#_lessons\3numbers\3numbers\bin\Debug\net6.0\3numbers.dll
+C:\Users\2013.102104\Desktop\c#_lessons\3numbers\3numbers\bin\Debug\net6.0\3numbers.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\3numbers\3numbers\obj\Debug\net6.0\3numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102104\Desktop\c#_lessons\3numbers\3numbers\obj\Debug\net6.0\3numbers.AssemblyInfoInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\3numbers\3numbers\obj\Debug\net6.0\3numbers.AssemblyInfo.cs
+C:\Users\2013.102104\Desktop\c#_lessons\3numbers\3numbers\obj\Debug\net6.0\3numbers.csproj.CoreCompileInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\3numbers\3numbers\obj\Debug\net6.0\3numbers.dll
+C:\Users\2013.102104\Desktop\c#_lessons\3numbers\3numbers\obj\Debug\net6.0\refint\3numbers.dll
+C:\Users\2013.102104\Desktop\c#_lessons\3numbers\3numbers\obj\Debug\net6.0\3numbers.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\3numbers\3numbers\obj\Debug\net6.0\3numbers.genruntimeconfig.cache
+C:\Users\2013.102104\Desktop\c#_lessons\3numbers\3numbers\obj\Debug\net6.0\ref\3numbers.dll

@@ -1,0 +1,14 @@
+C:\Users\2013.102104\Desktop\c#_lessons\pizza\pizza\bin\Debug\net6.0\pizza.exe
+C:\Users\2013.102104\Desktop\c#_lessons\pizza\pizza\bin\Debug\net6.0\pizza.deps.json
+C:\Users\2013.102104\Desktop\c#_lessons\pizza\pizza\bin\Debug\net6.0\pizza.runtimeconfig.json
+C:\Users\2013.102104\Desktop\c#_lessons\pizza\pizza\bin\Debug\net6.0\pizza.dll
+C:\Users\2013.102104\Desktop\c#_lessons\pizza\pizza\bin\Debug\net6.0\pizza.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\pizza\pizza\obj\Debug\net6.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102104\Desktop\c#_lessons\pizza\pizza\obj\Debug\net6.0\pizza.AssemblyInfoInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\pizza\pizza\obj\Debug\net6.0\pizza.AssemblyInfo.cs
+C:\Users\2013.102104\Desktop\c#_lessons\pizza\pizza\obj\Debug\net6.0\pizza.csproj.CoreCompileInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\pizza\pizza\obj\Debug\net6.0\pizza.dll
+C:\Users\2013.102104\Desktop\c#_lessons\pizza\pizza\obj\Debug\net6.0\refint\pizza.dll
+C:\Users\2013.102104\Desktop\c#_lessons\pizza\pizza\obj\Debug\net6.0\pizza.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\pizza\pizza\obj\Debug\net6.0\pizza.genruntimeconfig.cache
+C:\Users\2013.102104\Desktop\c#_lessons\pizza\pizza\obj\Debug\net6.0\ref\pizza.dll

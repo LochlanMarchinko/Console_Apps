@@ -1,0 +1,14 @@
+C:\Users\2013.102104\Desktop\c#_lessons\oddintegers\oddintegers\bin\Debug\net6.0\oddintegers.exe
+C:\Users\2013.102104\Desktop\c#_lessons\oddintegers\oddintegers\bin\Debug\net6.0\oddintegers.deps.json
+C:\Users\2013.102104\Desktop\c#_lessons\oddintegers\oddintegers\bin\Debug\net6.0\oddintegers.runtimeconfig.json
+C:\Users\2013.102104\Desktop\c#_lessons\oddintegers\oddintegers\bin\Debug\net6.0\oddintegers.dll
+C:\Users\2013.102104\Desktop\c#_lessons\oddintegers\oddintegers\bin\Debug\net6.0\oddintegers.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\oddintegers\oddintegers\obj\Debug\net6.0\oddintegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102104\Desktop\c#_lessons\oddintegers\oddintegers\obj\Debug\net6.0\oddintegers.AssemblyInfoInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\oddintegers\oddintegers\obj\Debug\net6.0\oddintegers.AssemblyInfo.cs
+C:\Users\2013.102104\Desktop\c#_lessons\oddintegers\oddintegers\obj\Debug\net6.0\oddintegers.csproj.CoreCompileInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\oddintegers\oddintegers\obj\Debug\net6.0\oddintegers.dll
+C:\Users\2013.102104\Desktop\c#_lessons\oddintegers\oddintegers\obj\Debug\net6.0\refint\oddintegers.dll
+C:\Users\2013.102104\Desktop\c#_lessons\oddintegers\oddintegers\obj\Debug\net6.0\oddintegers.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\oddintegers\oddintegers\obj\Debug\net6.0\oddintegers.genruntimeconfig.cache
+C:\Users\2013.102104\Desktop\c#_lessons\oddintegers\oddintegers\obj\Debug\net6.0\ref\oddintegers.dll

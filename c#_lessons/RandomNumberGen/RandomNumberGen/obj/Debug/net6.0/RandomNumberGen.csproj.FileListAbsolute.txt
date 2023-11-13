@@ -1,0 +1,14 @@
+C:\Users\2013.102104\Desktop\c#_lessons\RandomNumberGen\RandomNumberGen\bin\Debug\net6.0\RandomNumberGen.exe
+C:\Users\2013.102104\Desktop\c#_lessons\RandomNumberGen\RandomNumberGen\bin\Debug\net6.0\RandomNumberGen.deps.json
+C:\Users\2013.102104\Desktop\c#_lessons\RandomNumberGen\RandomNumberGen\bin\Debug\net6.0\RandomNumberGen.runtimeconfig.json
+C:\Users\2013.102104\Desktop\c#_lessons\RandomNumberGen\RandomNumberGen\bin\Debug\net6.0\RandomNumberGen.dll
+C:\Users\2013.102104\Desktop\c#_lessons\RandomNumberGen\RandomNumberGen\bin\Debug\net6.0\RandomNumberGen.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\RandomNumberGen\RandomNumberGen\obj\Debug\net6.0\RandomNumberGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102104\Desktop\c#_lessons\RandomNumberGen\RandomNumberGen\obj\Debug\net6.0\RandomNumberGen.AssemblyInfoInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\RandomNumberGen\RandomNumberGen\obj\Debug\net6.0\RandomNumberGen.AssemblyInfo.cs
+C:\Users\2013.102104\Desktop\c#_lessons\RandomNumberGen\RandomNumberGen\obj\Debug\net6.0\RandomNumberGen.csproj.CoreCompileInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\RandomNumberGen\RandomNumberGen\obj\Debug\net6.0\RandomNumberGen.dll
+C:\Users\2013.102104\Desktop\c#_lessons\RandomNumberGen\RandomNumberGen\obj\Debug\net6.0\refint\RandomNumberGen.dll
+C:\Users\2013.102104\Desktop\c#_lessons\RandomNumberGen\RandomNumberGen\obj\Debug\net6.0\RandomNumberGen.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\RandomNumberGen\RandomNumberGen\obj\Debug\net6.0\RandomNumberGen.genruntimeconfig.cache
+C:\Users\2013.102104\Desktop\c#_lessons\RandomNumberGen\RandomNumberGen\obj\Debug\net6.0\ref\RandomNumberGen.dll

@@ -1,0 +1,17 @@
+C:\Users\2013.102104\Desktop\c#_lessons\calculator2\calculator2\bin\Debug\net6.0-windows\calculator2.exe
+C:\Users\2013.102104\Desktop\c#_lessons\calculator2\calculator2\bin\Debug\net6.0-windows\calculator2.deps.json
+C:\Users\2013.102104\Desktop\c#_lessons\calculator2\calculator2\bin\Debug\net6.0-windows\calculator2.runtimeconfig.json
+C:\Users\2013.102104\Desktop\c#_lessons\calculator2\calculator2\bin\Debug\net6.0-windows\calculator2.dll
+C:\Users\2013.102104\Desktop\c#_lessons\calculator2\calculator2\bin\Debug\net6.0-windows\calculator2.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\calculator2\calculator2\obj\Debug\net6.0-windows\calculator2.Form1.resources
+C:\Users\2013.102104\Desktop\c#_lessons\calculator2\calculator2\obj\Debug\net6.0-windows\calculator2.csproj.GenerateResource.cache
+C:\Users\2013.102104\Desktop\c#_lessons\calculator2\calculator2\obj\Debug\net6.0-windows\calculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102104\Desktop\c#_lessons\calculator2\calculator2\obj\Debug\net6.0-windows\calculator2.AssemblyInfoInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\calculator2\calculator2\obj\Debug\net6.0-windows\calculator2.AssemblyInfo.cs
+C:\Users\2013.102104\Desktop\c#_lessons\calculator2\calculator2\obj\Debug\net6.0-windows\calculator2.csproj.CoreCompileInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\calculator2\calculator2\obj\Debug\net6.0-windows\calculator2.dll
+C:\Users\2013.102104\Desktop\c#_lessons\calculator2\calculator2\obj\Debug\net6.0-windows\refint\calculator2.dll
+C:\Users\2013.102104\Desktop\c#_lessons\calculator2\calculator2\obj\Debug\net6.0-windows\calculator2.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\calculator2\calculator2\obj\Debug\net6.0-windows\calculator2.genruntimeconfig.cache
+C:\Users\2013.102104\Desktop\c#_lessons\calculator2\calculator2\obj\Debug\net6.0-windows\ref\calculator2.dll
+C:\Users\2013.102104\Desktop\c#_lessons\calculator2\calculator2\obj\Debug\net6.0-windows\calculator2.Properties.Resources.resources

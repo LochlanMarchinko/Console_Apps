@@ -1,0 +1,14 @@
+C:\Users\2013.102104\Desktop\c#_lessons\Addtill\Addtill\bin\Debug\net6.0\Addtill.exe
+C:\Users\2013.102104\Desktop\c#_lessons\Addtill\Addtill\bin\Debug\net6.0\Addtill.deps.json
+C:\Users\2013.102104\Desktop\c#_lessons\Addtill\Addtill\bin\Debug\net6.0\Addtill.runtimeconfig.json
+C:\Users\2013.102104\Desktop\c#_lessons\Addtill\Addtill\bin\Debug\net6.0\Addtill.dll
+C:\Users\2013.102104\Desktop\c#_lessons\Addtill\Addtill\bin\Debug\net6.0\Addtill.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\Addtill\Addtill\obj\Debug\net6.0\Addtill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102104\Desktop\c#_lessons\Addtill\Addtill\obj\Debug\net6.0\Addtill.AssemblyInfoInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\Addtill\Addtill\obj\Debug\net6.0\Addtill.AssemblyInfo.cs
+C:\Users\2013.102104\Desktop\c#_lessons\Addtill\Addtill\obj\Debug\net6.0\Addtill.csproj.CoreCompileInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\Addtill\Addtill\obj\Debug\net6.0\Addtill.dll
+C:\Users\2013.102104\Desktop\c#_lessons\Addtill\Addtill\obj\Debug\net6.0\refint\Addtill.dll
+C:\Users\2013.102104\Desktop\c#_lessons\Addtill\Addtill\obj\Debug\net6.0\Addtill.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\Addtill\Addtill\obj\Debug\net6.0\Addtill.genruntimeconfig.cache
+C:\Users\2013.102104\Desktop\c#_lessons\Addtill\Addtill\obj\Debug\net6.0\ref\Addtill.dll

@@ -1,0 +1,16 @@
+C:\Users\2013.102104\Desktop\c#_lessons\2d Game\2d Game\bin\Debug\net6.0-windows\2d Game.exe
+C:\Users\2013.102104\Desktop\c#_lessons\2d Game\2d Game\bin\Debug\net6.0-windows\2d Game.deps.json
+C:\Users\2013.102104\Desktop\c#_lessons\2d Game\2d Game\bin\Debug\net6.0-windows\2d Game.runtimeconfig.json
+C:\Users\2013.102104\Desktop\c#_lessons\2d Game\2d Game\bin\Debug\net6.0-windows\2d Game.dll
+C:\Users\2013.102104\Desktop\c#_lessons\2d Game\2d Game\bin\Debug\net6.0-windows\2d Game.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\2d Game\2d Game\obj\Debug\net6.0-windows\_2d_Game.Form1.resources
+C:\Users\2013.102104\Desktop\c#_lessons\2d Game\2d Game\obj\Debug\net6.0-windows\2d Game.csproj.GenerateResource.cache
+C:\Users\2013.102104\Desktop\c#_lessons\2d Game\2d Game\obj\Debug\net6.0-windows\2d Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102104\Desktop\c#_lessons\2d Game\2d Game\obj\Debug\net6.0-windows\2d Game.AssemblyInfoInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\2d Game\2d Game\obj\Debug\net6.0-windows\2d Game.AssemblyInfo.cs
+C:\Users\2013.102104\Desktop\c#_lessons\2d Game\2d Game\obj\Debug\net6.0-windows\2d Game.csproj.CoreCompileInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\2d Game\2d Game\obj\Debug\net6.0-windows\2d Game.dll
+C:\Users\2013.102104\Desktop\c#_lessons\2d Game\2d Game\obj\Debug\net6.0-windows\refint\2d Game.dll
+C:\Users\2013.102104\Desktop\c#_lessons\2d Game\2d Game\obj\Debug\net6.0-windows\2d Game.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\2d Game\2d Game\obj\Debug\net6.0-windows\2d Game.genruntimeconfig.cache
+C:\Users\2013.102104\Desktop\c#_lessons\2d Game\2d Game\obj\Debug\net6.0-windows\ref\2d Game.dll

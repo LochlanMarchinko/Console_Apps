@@ -1,0 +1,14 @@
+C:\Users\2013.102104\Desktop\c#_lessons\from0to10\from0to10\bin\Debug\net6.0\from0to10.exe
+C:\Users\2013.102104\Desktop\c#_lessons\from0to10\from0to10\bin\Debug\net6.0\from0to10.deps.json
+C:\Users\2013.102104\Desktop\c#_lessons\from0to10\from0to10\bin\Debug\net6.0\from0to10.runtimeconfig.json
+C:\Users\2013.102104\Desktop\c#_lessons\from0to10\from0to10\bin\Debug\net6.0\from0to10.dll
+C:\Users\2013.102104\Desktop\c#_lessons\from0to10\from0to10\bin\Debug\net6.0\from0to10.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\from0to10\from0to10\obj\Debug\net6.0\from0to10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102104\Desktop\c#_lessons\from0to10\from0to10\obj\Debug\net6.0\from0to10.AssemblyInfoInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\from0to10\from0to10\obj\Debug\net6.0\from0to10.AssemblyInfo.cs
+C:\Users\2013.102104\Desktop\c#_lessons\from0to10\from0to10\obj\Debug\net6.0\from0to10.csproj.CoreCompileInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\from0to10\from0to10\obj\Debug\net6.0\from0to10.dll
+C:\Users\2013.102104\Desktop\c#_lessons\from0to10\from0to10\obj\Debug\net6.0\refint\from0to10.dll
+C:\Users\2013.102104\Desktop\c#_lessons\from0to10\from0to10\obj\Debug\net6.0\from0to10.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\from0to10\from0to10\obj\Debug\net6.0\from0to10.genruntimeconfig.cache
+C:\Users\2013.102104\Desktop\c#_lessons\from0to10\from0to10\obj\Debug\net6.0\ref\from0to10.dll

@@ -1,0 +1,6 @@
+C:\Users\2013.102104\Desktop\c#_lessons\calculatorforms\calculatorforms\obj\Debug\net6.0-windows\calculatorforms.Form1.resources
+C:\Users\2013.102104\Desktop\c#_lessons\calculatorforms\calculatorforms\obj\Debug\net6.0-windows\calculatorforms.csproj.GenerateResource.cache
+C:\Users\2013.102104\Desktop\c#_lessons\calculatorforms\calculatorforms\obj\Debug\net6.0-windows\calculatorforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102104\Desktop\c#_lessons\calculatorforms\calculatorforms\obj\Debug\net6.0-windows\calculatorforms.AssemblyInfoInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\calculatorforms\calculatorforms\obj\Debug\net6.0-windows\calculatorforms.AssemblyInfo.cs
+C:\Users\2013.102104\Desktop\c#_lessons\calculatorforms\calculatorforms\obj\Debug\net6.0-windows\calculatorforms.csproj.CoreCompileInputs.cache

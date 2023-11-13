@@ -1,0 +1,14 @@
+C:\Users\2013.102104\Desktop\c#_lessons\bombdetectoin\bombdetectoin\bin\Debug\net6.0\bombdetectoin.exe
+C:\Users\2013.102104\Desktop\c#_lessons\bombdetectoin\bombdetectoin\bin\Debug\net6.0\bombdetectoin.deps.json
+C:\Users\2013.102104\Desktop\c#_lessons\bombdetectoin\bombdetectoin\bin\Debug\net6.0\bombdetectoin.runtimeconfig.json
+C:\Users\2013.102104\Desktop\c#_lessons\bombdetectoin\bombdetectoin\bin\Debug\net6.0\bombdetectoin.dll
+C:\Users\2013.102104\Desktop\c#_lessons\bombdetectoin\bombdetectoin\bin\Debug\net6.0\bombdetectoin.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\bombdetectoin\bombdetectoin\obj\Debug\net6.0\bombdetectoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102104\Desktop\c#_lessons\bombdetectoin\bombdetectoin\obj\Debug\net6.0\bombdetectoin.AssemblyInfoInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\bombdetectoin\bombdetectoin\obj\Debug\net6.0\bombdetectoin.AssemblyInfo.cs
+C:\Users\2013.102104\Desktop\c#_lessons\bombdetectoin\bombdetectoin\obj\Debug\net6.0\bombdetectoin.csproj.CoreCompileInputs.cache
+C:\Users\2013.102104\Desktop\c#_lessons\bombdetectoin\bombdetectoin\obj\Debug\net6.0\bombdetectoin.dll
+C:\Users\2013.102104\Desktop\c#_lessons\bombdetectoin\bombdetectoin\obj\Debug\net6.0\refint\bombdetectoin.dll
+C:\Users\2013.102104\Desktop\c#_lessons\bombdetectoin\bombdetectoin\obj\Debug\net6.0\bombdetectoin.pdb
+C:\Users\2013.102104\Desktop\c#_lessons\bombdetectoin\bombdetectoin\obj\Debug\net6.0\bombdetectoin.genruntimeconfig.cache
+C:\Users\2013.102104\Desktop\c#_lessons\bombdetectoin\bombdetectoin\obj\Debug\net6.0\ref\bombdetectoin.dll
